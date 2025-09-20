@@ -59,6 +59,3 @@ After the data is processed and loaded into the database.
 
 ## Conclusion
 This project shows how to design and implement ETL pipeline for telecom company using csv files as source and applying business rules before loading data into database
-
-## Conclusion
-This project shows how to design and implement ETL pipeline for telecom company using csv files as source and applying business rules before loading data into database
