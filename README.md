@@ -45,7 +45,7 @@ After the data is processed and loaded into the database.
 <img src="Task Image/Data_Flow.png" alt="ETL Flow" width="900">
 
 
-<img src="Task Image/SUCC_Mappings.png" alt="ETL Flow" width="900">
+<img src="Task Image/Succ_Mappings.png" alt="ETL Flow" width="900">
 
 
 <img src="Task Image/Failed_Mappings.png" alt="ETL Flow" width="900">
