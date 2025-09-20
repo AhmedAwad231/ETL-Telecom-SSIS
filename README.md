@@ -9,7 +9,7 @@ Invalid or rejected records are stored in a separate table with the original csv
 
 The required processing exceeds this previous data to store it in the database and Rejected records will be stored in a separate table, with the original CSV file name recorded :
 
-<img src="Task Image/Tabel.png" alt="ETL Flow" width="500">
+<img src="Task Image/Table.png" alt="ETL Flow" width="500">
 
 <img src="Task Image/Case.png" alt="ETL Flow" width="500">
 
@@ -36,7 +36,7 @@ After the data is processed and loaded into the database.
 
 ## Project Structure
 
-<img src="Task Image/Tabels.png" alt="ETL Flow" width="900">
+<img src="Task Image/Tables.png" alt="ETL Flow" width="900">
 
 
 <img src="Task Image/Control_Flow.png" alt="ETL Flow" width="900">
